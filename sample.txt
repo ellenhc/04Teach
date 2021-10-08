@@ -1,1 +1,2 @@
-This is a sample text document. Adding more text to change the document.
+This is a sample text document. Changing the file again for the stretch challenge.
+
